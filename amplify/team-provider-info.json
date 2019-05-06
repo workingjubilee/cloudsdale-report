@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "cloudsdale-report-dev-20190505210755-authRole",
+            "UnauthRoleArn": "arn:aws:iam::446487481723:role/cloudsdale-report-dev-20190505210755-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::446487481723:role/cloudsdale-report-dev-20190505210755-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "cloudsdale-report-dev-20190505210755-deployment",
+            "UnauthRoleName": "cloudsdale-report-dev-20190505210755-unauthRole",
+            "StackName": "cloudsdale-report-dev-20190505210755",
+            "StackId": "arn:aws:cloudformation:us-east-1:446487481723:stack/cloudsdale-report-dev-20190505210755/8752d5a0-6fb4-11e9-8ab0-129cd46a326a"
+        }
+    }
+}

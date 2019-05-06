@@ -1,0 +1,34 @@
+{
+    "paths": [
+        {
+            "name": "/builds",
+            "lambdaFunction": "cloudsdalereporter",
+            "privacy": {
+                "open": true
+            }
+        }
+    ],
+    "resourceName": "buildReport",
+    "apiName": "buildReport",
+    "functionArns": [
+        {
+            "lambdaFunction": "cloudsdalereporter"
+        }
+    ],
+    "privacy": {
+        "auth": 0,
+        "unauth": 0,
+        "authRoleName": "cloudsdale-report-dev-20190505210755-authRole",
+        "unAuthRoleName": "cloudsdale-report-dev-20190505210755-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "cloudsdalereporter",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}
