@@ -13,6 +13,18 @@ code {
     monospace;
 }
 
-html, body, #root {
+html, body, #cloudsdale {
   height: 100%
+}
+
+#cloudsdale {
+  text-align: center;
+  background-image: url("cloudsdale.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center; 
+  background-color: deepskyblue;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
 }
