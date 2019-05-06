@@ -19,7 +19,7 @@ html, body, #cloudsdale {
 
 #cloudsdale {
   text-align: center;
-  background-image: url("cloudsdale.jpeg");
+  background-image: url("./cloudsdale.jpeg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center; 
