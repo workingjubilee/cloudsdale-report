@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6ebd969.chunk.css",
-    "main.js": "/static/js/main.ac9268a5.chunk.js",
-    "main.js.map": "/static/js/main.ac9268a5.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.c5541365.js",
-    "runtime~main.js.map": "/static/js/runtime~main.c5541365.js.map",
-    "static/js/2.f7844318.chunk.js": "/static/js/2.f7844318.chunk.js",
-    "static/js/2.f7844318.chunk.js.map": "/static/js/2.f7844318.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.890de8747963bfcbbf9b7b2eba66593f.js": "/precache-manifest.890de8747963bfcbbf9b7b2eba66593f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d6ebd969.chunk.css.map": "/static/css/main.d6ebd969.chunk.css.map",
-    "static/media/index.css": "/static/media/cloudsdale.aab2e6a5.jpeg"
+    "main.css": "/cloudsdale-report/static/css/main.56a39b89.chunk.css",
+    "main.js": "/cloudsdale-report/static/js/main.ac9268a5.chunk.js",
+    "main.js.map": "/cloudsdale-report/static/js/main.ac9268a5.chunk.js.map",
+    "runtime~main.js": "/cloudsdale-report/static/js/runtime~main.4678ec67.js",
+    "runtime~main.js.map": "/cloudsdale-report/static/js/runtime~main.4678ec67.js.map",
+    "static/js/2.f7844318.chunk.js": "/cloudsdale-report/static/js/2.f7844318.chunk.js",
+    "static/js/2.f7844318.chunk.js.map": "/cloudsdale-report/static/js/2.f7844318.chunk.js.map",
+    "index.html": "/cloudsdale-report/index.html",
+    "precache-manifest.512783096cb75ef4eeefea89009170e1.js": "/cloudsdale-report/precache-manifest.512783096cb75ef4eeefea89009170e1.js",
+    "service-worker.js": "/cloudsdale-report/service-worker.js",
+    "static/css/main.56a39b89.chunk.css.map": "/cloudsdale-report/static/css/main.56a39b89.chunk.css.map",
+    "static/media/index.css": "/cloudsdale-report/static/media/cloudsdale.aab2e6a5.jpeg"
   }
 }
