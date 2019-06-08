@@ -1,9 +1,14 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 
-export default props => {
+export default function Report (props) {
   return (
     <li>
-      Report.
+      {props.report}
     </li>
   )
+}
+
+Report.propTypes = {
+  report: PropTypes.string
 }
